@@ -1,0 +1,47 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "age": 20,
+        "email": "john.doe@example.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfGaPeS62qusTUFyVchOrh_r2cL4_P8-q3bg&s"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 22,
+        "email": "jane.smith@example.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ85IB4jEkRUvgF2VOTmEoT73GcJh9iGZlK6g&s"
+      },
+      {
+        "id": 3,
+        "name": "Michael Johnson",
+        "age": 19,
+        "email": "michael.johnson@example.com",
+        "image": "https://imagenes.elpais.com/resizer/v2/RHHIJN363FCRPHE2SBL5UL5E4Y.jpg?auth=cb51180bacaff66000900f6ec1c287b383c6edab735cc0d90837ef8e61c6c282&width=414"
+      },
+      {
+        "id": 4,
+        "name": "Emily Davis",
+        "age": 21,
+        "email": "emily.davis@example.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQB81Yu-AD7ARZtA1Bd7X9BmOHQlpC7JkbA&s"
+      },
+      {
+        "id": 5,
+        "name": "Chris Brown",
+        "age": 23,
+        "email": "chris.brown@example.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyttWJhki79LAKjRYqiH8xUQt0d7A4q3CcUQ&s"
+      },
+      {
+        "id": 6,
+        "name": "Sarah Wilson",
+        "age": 20,
+        "email": "sarah.wilson@example.com",
+        "image": "https://content.api.news/v3/images/bin/d92defaed61bc81c78acc5024ed0fe01"
+      }
+    ]
+  }
+  
